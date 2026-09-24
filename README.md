@@ -3,7 +3,7 @@
 A small PostgreSQL model of a public-transport ticketing platform (buses, trams
 and trains), built over weeks 35 to 38.
 
-**Submitted commit:** `COMMIT_HASH`
+**Submitted commit:** `10da5b1`
 
 ## Setup and reset
 
