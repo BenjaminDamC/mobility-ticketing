@@ -1,7 +1,9 @@
 # Compulsory Assignment 1 — MobilityTicketing
 
-A small PostgreSQL model of a public-transport ticketing platform (buses, trams
-and trains), built over weeks 35 to 38.
+A small model of a transport ticketing platform, built over weeks 35 to 38.
+
+Group size 1
+Member: Benjamin Dam
 
 **Submitted commit:** `10da5b1`
 
